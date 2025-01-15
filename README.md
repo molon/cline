@@ -1,3 +1,9 @@
+I created a fork for personal use.
+
+For icons, I’m using the codicons library from Microsoft: [Codicons Documentation](https://microsoft.github.io/vscode-codicons/dist/codicon.html), I’m utilizing the `$(symbol-operator)` icon.
+
+
+
 # Cline (prev. Claude Dev) – \#1 on OpenRouter
 
 <p align="center">
@@ -8,7 +14,7 @@
 <table>
 <tbody>
 <td align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev" target="_blank"><strong>Download on VS Marketplace</strong></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=clinex.clinex" target="_blank"><strong>Download on VS Marketplace</strong></a>
 </td>
 <td align="center">
 <a href="https://discord.gg/cline" target="_blank"><strong>Join the Discord</strong></a>
