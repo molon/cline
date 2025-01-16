@@ -2,6 +2,7 @@ I created a fork for personal use.
 
 For icons, I’m using the codicons library from Microsoft: [Codicons Documentation](https://microsoft.github.io/vscode-codicons/dist/codicon.html), I’m utilizing the `$(symbol-operator)` icon.
 
+`make install`
 
 
 # Cline (prev. Claude Dev) – \#1 on OpenRouter
