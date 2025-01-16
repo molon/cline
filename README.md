@@ -4,8 +4,7 @@ For icons, I’m using the codicons library from Microsoft: [Codicons Documentat
 
 Run `make install` to install on your local machine
 
-
-# Cline (prev. Claude Dev) – \#1 on OpenRouter
+# Cline – \#1 on OpenRouter
 
 <p align="center">
   <img src="https://media.githubusercontent.com/media/cline/cline/main/assets/docs/demo.gif" width="100%" />
@@ -18,7 +17,10 @@ Run `make install` to install on your local machine
 <a href="https://marketplace.visualstudio.com/items?itemName=clinex.clinex" target="_blank"><strong>Download on VS Marketplace</strong></a>
 </td>
 <td align="center">
-<a href="https://discord.gg/cline" target="_blank"><strong>Join the Discord</strong></a>
+<a href="https://discord.gg/cline" target="_blank"><strong>Discord</strong></a>
+</td>
+<td align="center">
+<a href="https://www.reddit.com/r/cline/" target="_blank"><strong>r/cline</strong></a>
 </td>
 <td align="center">
 <a href="https://github.com/cline/cline/discussions/categories/feature-requests?discussions_q=is%3Aopen+category%3A%22Feature+Requests%22+sort%3Atop" target="_blank"><strong>Feature Requests</strong></a>
