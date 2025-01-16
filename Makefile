@@ -3,8 +3,19 @@
 # Default target
 all: package
 
+# Check if node_modules exists
+NODE_MODULES := node_modules
+
+webview-ui/node_modules: webview-ui/package.json
+	@echo "Installing webview-ui dependencies..."
+	cd webview-ui && npm install
+
+$(NODE_MODULES): package.json
+	@echo "Installing dependencies..."
+	npm install
+	
 # Build the extension
-package:
+package: $(NODE_MODULES) webview-ui/node_modules
 	@echo "Building extension..."
 	npm run package
 
