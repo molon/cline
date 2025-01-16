@@ -31,7 +31,7 @@ export async function listFiles(dirPath: string, recursive: boolean, limit: numb
 		"tmp",
 		"temp",
 		"deps",
-		"pkg",
+		// "pkg",
 		"Pods",
 		".*", // '!**/.*' excludes hidden directories, while '!**/.*/**' excludes only their contents. This way we are at least aware of the existence of hidden directories.
 	].map((dir) => `**/${dir}/**`)

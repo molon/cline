@@ -148,7 +148,7 @@ class CheckpointTracker {
 					"tmp/",
 					"temp/",
 					"deps/",
-					"pkg/",
+					// "pkg/",
 					"Pods/",
 					// Media files
 					"*.jpg",
