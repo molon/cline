@@ -673,7 +673,7 @@ export class ClineProvider implements vscode.WebviewViewProvider {
 						break
 					}
 					case "openExtensionSettings": {
-						await vscode.commands.executeCommand("workbench.action.openSettings", "@ext:saoudrizwan.claude-dev")
+						await vscode.commands.executeCommand("workbench.action.openSettings", "@ext:clinex.clinex")
 						break
 					}
 					// Add more switch case statements here as more webview message commands
