@@ -22,6 +22,7 @@ package: $(NODE_MODULES) webview-ui/node_modules
 # Create .vsix package
 vsix: package
 	@echo "Creating .vsix package..."
+	rm -f clinex-*.vsix
 	npx vsce package
 
 # Install the extension locally
